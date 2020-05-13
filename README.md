@@ -1,6 +1,6 @@
 # Fenix Webcam Manager
 
-A C# program with Telerik to take photos from any connected Webcam.
+A program in C# with Telerik to take photos from any connected Webcam.
 
 An image :
 
